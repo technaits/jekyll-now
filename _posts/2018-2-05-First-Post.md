@@ -1,7 +1,7 @@
-layout	title
-post
-This is my first post about cibersecurity. Just testing github working
-
+---
+layout: post
+title: Useful linux tricks
+---
 
 
 Today i am going to explain some useful linux commands&tricks that make life easier. 
